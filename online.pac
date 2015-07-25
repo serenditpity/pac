@@ -1,5 +1,3 @@
-
-
 function FindProxyForURL(url, host) {
 
     var list = [
